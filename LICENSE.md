@@ -1,6 +1,6 @@
 # Vector 2 SDK Non-Commercial License
 
-Copyright (c) 2026 Ghost29012 (ghosted)
+Copyright (c) 2026 ghosted
 
 Permission is granted, free of charge, to any person obtaining a copy of this software and its accompanying documentation (the "Software"), to use, copy, modify, and distribute the Software solely for non-commercial purposes, subject to the terms below.
 
