@@ -6,6 +6,8 @@ You can make rooms, build triggers, add traps and work with custom models and an
 
 The custom game project is here: [Vector 2 Modding Project](https://github.com/Ghost29012/Vector-2-Modding-Project).
 
+This is the MACOS version, windows one is here: https://github.com/tomdev290/Vector-2-SDK-Windows/releases/tag/Release
+
 The macOS editor needs macOS 14 or newer. Downloads are in [Releases](https://github.com/Ghost29012/Vector-2-SDK/releases).
 
 Per-room backgrounds in Tools are disabled for this release. The background-pool designer in Project Manager is still available.
