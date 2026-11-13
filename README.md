@@ -16,4 +16,4 @@ Made by ghosted / Ghost29012. Original work for this project is non-commercial o
 
 Vector 2 belongs to Nekki. This isn't an official Nekki project, and I don't own the original game or its assets. Third-party credits and licenses stay with their code and assets.
 
-Upcoming releases will include a brand new animation tool and a brand new project manager overhaul along with the return of the background designer for specific levels
+- Upcoming releases will include a brand new animation tool and a brand new project manager overhaul along with the return of the background designer for specific levels and a built in simulator for the game in editor
